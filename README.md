@@ -7,9 +7,7 @@ This repository contains implementations of various **Machine Learning (ML) algo
 - [Introduction](#introduction)
 - [Algorithms Implemented](#algorithms-implemented)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
